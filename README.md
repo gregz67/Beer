@@ -13,3 +13,4 @@ Changes:
 * feature change 4
 * feature change 5
 * feature change 6
+* feature change 7
