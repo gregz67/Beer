@@ -1,6 +1,7 @@
 /**
  * Module dependencies.
  * harmless comment
+ * another harmless comment
  */
 
 var express = require('express');
