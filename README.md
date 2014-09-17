@@ -1,4 +1,4 @@
 Beer
 ====
 
-webstorm walk thru
+This is a webstorm walk thru from a node.js webinar
