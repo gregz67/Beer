@@ -3,4 +3,7 @@ Beer
 
 webstorm walk thru
 
-some changes
+Changes:
+
+* some changes (feature change 1)
+* another change (feature change 2)
