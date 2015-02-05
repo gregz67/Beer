@@ -3,5 +3,6 @@
  */
 
 exports.list = function (req, res) {
-  res.send("respond with a resource");
+  var fs = require('fs');
+  res.json(fs.readFileSync('routes/users.json'));
 };
